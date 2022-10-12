@@ -19,5 +19,11 @@
   "bugs": {
     "url": "https://github.com/Cyber-JiuJiteria/DevSecOps_Tutorial/issues"
   },
-  "homepage": "https://github.com/Cyber-JiuJiteria/DevSecOps_Tutorial#readme"
+  "homepage": "https://github.com/Cyber-JiuJiteria/DevSecOps_Tutorial#readme",
+  "dependencies": {
+     "mongoose":"^6.0.0" 
+  },
+  "devDependencies" : {
+     "mongoose":"^6.0.0" 
+  }
 }
